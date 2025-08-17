@@ -8,4 +8,4 @@ Python, HTML, CSS, JavaScript
 📌 Meus Projetos
 🔹 Em breve você verá meus projetos aqui!
 
-📫 Vamos nos conectar no LinkedIn : linkedin.com/in/ewersonjackson
+📫 Vamos nos conectar no [LinkedIn](https://www.linkedin.com/in/ewersonjackson/)
