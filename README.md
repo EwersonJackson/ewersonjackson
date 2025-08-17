@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Ewerson Jackson
 
-🎓 Estudante de Analise de Desenvolvimento de Sistemas 
+🎓 Estudante de Analise de Desenvolvimento de Sistemas                                         
 🔧 Programação com foco em Inteligência Artificial  
 📍 Brasília - DF
 
